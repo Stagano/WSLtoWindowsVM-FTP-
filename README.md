@@ -1,4 +1,4 @@
-# WSLtoWindowsVM-FTP-
+# WSLtoWindowsVM(FTP)
 
 
 1. WSL의 IP 확인
